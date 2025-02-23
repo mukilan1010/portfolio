@@ -43,6 +43,7 @@ const Contact = () => {
             </button>
           </div>
         </form>
+        
       </div>
     </section>
   );

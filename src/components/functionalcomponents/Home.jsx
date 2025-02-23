@@ -1,8 +1,8 @@
 import React from 'react'
 import '../css/Home.css';
-import profilePic from '../pictures/hero.png'
-
+import profilePic from '../pictures/mukilan.jpeg'
 import { Link } from 'react-router-dom';
+
 const Home = () => {
   return (
     <div className="home-wrapper">

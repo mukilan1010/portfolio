@@ -1,6 +1,6 @@
 import React from "react";
 import "../css/About.css";
-import profilePic from "../pictures/hero.png";
+import profilePic from "../pictures/mukilan.jpeg";
 
 const About = () => {
   return (
